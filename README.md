@@ -1,1 +1,1 @@
-Create a basic HTML file structure setup with head and body tags, along with doctype. Show a text on the UI:  Hi {your_name}
+Create a full blown HTML page with different sections, each having different height and width:--- your image,--- your name,--- your description--- your hobbies--- your qualifications
