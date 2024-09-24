@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+
+}
+.container{
+    height:50px;
+    width:500px;
+    border:1px solid black;
+    border-radius: 8px;
+    margin:40px 0 0 400px;
+    padding:20px 0 0 20px;
+    background-color: grey;
+    color:white;
+
+
+}
+.box{
+    margin-left:10px;
+}
+.box1{
+    margin-left:170px;
+    background-color: yellow;
+    
+}
+.container2{
+    height:200px;
+    width:550px;
+    border:1px dashed red;
+    margin:150px 200px 400px 370px;
+    background-color: yellow;
+    font-size: larger;
+    text-align: center;
+
+
+}
