@@ -22,11 +22,11 @@ body{
     
 }
 .container2{
-    height:200px;
+    height:250px;
     width:550px;
     border:1px dashed red;
-    margin:150px 200px 400px 390px;
-    background-color: yellow;
+    margin:200px 200px 400px 390px;
+    background:linear-gradient( 180deg ,#ff9900,#e0992e);
     font-size: larger;
     text-align: center;
 }
@@ -36,4 +36,21 @@ body{
     border-radius:5px;
     background-color: yellow;
     color:black;
+}
+.logo{
+    border:2px solid black;
+    width:30px;
+    height:30px;
+    margin-left:257px;
+    margin-top:50px;
+}
+.logo1{
+    height:30px;
+    width:30px;
+}
+.ul-li{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 50px;
+    font-weight: 700;
 }
