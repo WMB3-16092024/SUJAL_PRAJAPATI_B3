@@ -1,0 +1,40 @@
+.container{
+    height: 90vh;
+    width:70vw;
+    border:1px solid black;
+    display:block;
+
+}
+.box1{
+    height:140px;
+    width:300px;
+    border:2px solid black;
+    margin:2px;
+    overflow: hidden;
+}
+.box2{
+    height:140px;
+    width:150px;
+    border:2px solid black;
+    margin:2px;
+    overflow: scroll;
+}
+.box3{
+    height:140px;
+    width:300px;
+    border:2px solid black;
+    margin:2px;
+    overflow: auto;
+}
+.box4{
+    height:140px;
+    width:200px;
+    border:2px solid black;
+    margin:2px;
+    overflow-x:auto ;
+
+}
+.text-container{
+    height: 500px;
+    width: 500px;
+}
