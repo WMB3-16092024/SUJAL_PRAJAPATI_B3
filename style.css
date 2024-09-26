@@ -1,0 +1,30 @@
+.container{
+    border:1px solid black;
+    margin:2px;
+    gap:1.5em;
+}
+.one{
+    height:150px;
+    width: 150px;
+    border:1px solid black;
+    background: radial-gradient(pink,blue);
+}
+.two{
+    height:150px;
+    width:150px;
+    border:1px solid black;
+    background: linear-gradient(180deg,yellow,red);
+}
+.three{
+    height:150px;
+    width:150px;
+    border:1px solid black;
+    background-image: linear-gradient(to bottom right,darkgreen,lightgreen);
+}
+
+.four{
+    height: 150px;
+    width:150px;
+    border:1px solid black;
+    background-image: linear-gradient(to bottom right,purple,pink,blue,green);
+}
