@@ -1,0 +1,8 @@
+.container{
+    height: 60vh;
+    background: linear-gradient(to bottom right,red 20%,green 40%,yellow 60%,pink );
+    font-size: 100px;
+    color:transparent;
+    background-clip:text;
+    text-align:center;
+}
